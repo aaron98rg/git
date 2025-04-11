@@ -17,7 +17,7 @@ Crea un menú principal en el que el usuario pueda simular algunas operaciones a
 -Dependiendo del juego que haya seleccionado ofrécele subir de nivel o explorar algunos kilómetros de mapa.
 -Por último pregúntale si quiere saber el precio final del juego, para ello aplícale un 15% y pregúntale si quiere comprarlo.
 -Si te dice que sí, borra el juego de la lista"""
-#ESTE ES EL CAMBIO A VISUALIZAR
+#NO HAY NINGUN CAMBIO 
 
 
 class Videojuego():
