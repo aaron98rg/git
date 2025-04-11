@@ -18,6 +18,7 @@ Crea un menú principal en el que el usuario pueda simular algunas operaciones a
 -Por último pregúntale si quiere saber el precio final del juego, para ello aplícale un 15% y pregúntale si quiere comprarlo.
 -Si te dice que sí, borra el juego de la lista"""
 #NO HAY NINGUN CAMBIO 
+#hola valen
 
 
 class Videojuego():
